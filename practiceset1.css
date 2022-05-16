@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Chapter 1 practice set</title>
+</head>
+<style>
+    .red{
+        background-color: red;
+        color: white;
+
+    }
+</style>
+<body>
+    <div class="red blue">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, suscipit id. Assumenda quis ipsum, at harum non consequatur obcaecati suscipit omnis, repellat unde cupiditate tempora eos eaque facilis porro vel.</div>
+    <div id="haed">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam dolor quisquam quidem sequi numquam non quam aspernatur asperiores fugit repudiandae. Optio tempora delectus natus dolorem quas qui sapiente culpa rerum? Cupiditate ab non esse?
+    </div>
+    <span class="red">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem tempora repellendus nulla earum sed modi quos dolores vel architecto ex, libero ipsam in molestias doloremque, dolorum delectus suscipit omnis odio.</span>
+</body> 
+</html>
