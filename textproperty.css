@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Text properties</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    <style>
+        p{
+        text-align: center;
+        background-color: yellow;
+        width: 454px;
+        height: 156px;
+        /* text-decoration:underline; */
+        text-transform: uppercase;
+        /* line-height :15px; */
+        font-size:small;
+        font-family: 'Permanent Marker', cursive;
+        font-style: italic;
+    }
+
+    </style>
+</head>
+<body>
+    
+        <p>This is a nice boy Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates, ex? Optio iste, eius nobis hic quisquam modi nisi illum quibusdam quasi, tenetur odit.</p>
+
+</body>
+</html>
