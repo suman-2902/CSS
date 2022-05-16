@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> chapter-3 practice set</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        header{
+            background:black;
+            color: white;
+            height: 60px;
+            border: 2px solid white;
+        }
+        .content{
+            background-color: aqua;
+            height: 80vh;
+            padding: 22px;
+        }
+        footer{
+            background-color: rebeccapurple;
+            margin: 23px;
+        }
+        .text{
+                text-align: center;
+                height: 20px;
+        }
+    
+    </style>
+</head>
+<body>
+    <header>
+        <ul>
+            <li>Home </li>
+            <li>About</li>
+            <li>Contact us</li>
+        </ul>
+    </header>
+    <div class="content">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto natus obcaecati recusandae labore maiores tempore, hic voluptatibus consequatur adipisci neque quod aut, earum repellendus cumque blanditiis libero odio ducimus, ipsa ex vitae iure id debitis ab tempora. Facere similique eligendi provident nisi aliquid nihil corporis adipisci quas, reprehenderit ut deserunt!
+    </div> 
+    <footer>
+        <p class="text">copyright &copy; clubmania</p>
+    </footer>
+</body>
+</html>
