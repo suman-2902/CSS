@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ch5 ps</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 10px;
+        }
+        li{
+            display: inline;
+            font-size: 2vw;
+            padding: 0 13px;
+        }
+
+        header{
+            padding: 25px;
+            background-color:black;
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+        .container{
+            min-height: 2333px;
+            background-color: blue;
+            position: relative;
+            z-index: 3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+
+     </header>
+     <div class="container">
+
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quis dicta dolore. Laudantium magni aut unde. Deserunt blanditiis harum eos alias? Inventore ullam dignissimos iusto sunt. Aliquam, nisi! Ea nihil eos sapiente nesciunt est magnam veritatis, minus saepe! Consectetur ipsum explicabo ullam. Illo accusantium unde neque atque deserunt porro ab facere qui, aliquam hic eius, molestiae sed quaerat commodi totam possimus doloremque soluta voluptate? Ducimus explicabo minima repellat aspernatur, excepturi voluptate ex, vel aliquid aperiam, quas dolores nulla ab tempore natus? Ipsum excepturi, culpa rerum esse, doloribus obcaecati nemo animi voluptatem tenetur sequi explicabo eveniet autem! Repudiandae velit tempora culpa facere adipisci fuga ducimus, placeat delectus error tempore fugiat perferendis officia? Sed enim culpa ipsum error voluptas delectus quidem eaque nemo, mollitia deleniti quasi debitis ex accusantium excepturi nostrum vero rerum dolorum inventore odio blanditiis at nihil, quis cupiditate. Reprehenderit illum, esse reiciendis quaerat non enim odio odit corrupti eligendi dicta adipisci, iste in repudiandae. Id aliquam ex beatae, numquam labore impedit quidem animi quisquam non aliquid neque distinctio. Atque magnam deleniti totam minus, tenetur quidem saepe quas, rem consequatur, quod voluptatibus earum necessitatibus pariatur? Dolorum corporis corrupti aspernatur provident fugit maxime accusamus voluptates quidem nobis ea quos laborum error, ipsum obcaecati. Velit officiis placeat vel quis quas deleniti a numquam, dolorem eaque aperiam veritatis tempore qui labore delectus voluptatem ipsam suscipit, dolores deserunt soluta sed error exercitationem omnis amet reprehenderit. Repellat iure numquam cumque at reprehenderit, autem dolorum accusantium quisquam amet, dolor ex a quae saepe commodi facilis. Vel fugit, aperiam maxime, autem nulla tenetur inventore in commodi alias voluptas nisi sint! Temporibus velit magnam veritatis voluptatum voluptas, explicabo possimus earum repellat omnis saepe. Sit obcaecati ex qui? Exercitationem odio odit repellat sapiente commodi quis illum nesciunt omnis nihil asperiores optio minima, ullam sit? Corrupti quas, soluta maxime consequatur dignissimos totam iste natus dolorem quisquam rem delectus, tenetur nostrum praesentium commodi quia. Ipsa eos voluptates possimus dolor expedita modi? Enim magni est iste iure, commodi repellendus sint doloribus numquam unde neque obcaecati aliquam tempora sed ducimus nisi quasi at? Reprehenderit fugit nesciunt nisi totam.
+     </div>
+</body>
+</html>
