@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box1{
+            height: 134px;
+            width: 231px;
+            background-color: red;
+            text-align: center;
+  
+        }
+        .box2{
+            height: 134px;
+            width: 131px;
+            background-color:blue;
+            /* display:inline; */
+            margin: 34px;
+            display: inline;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="box1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus iste asperiores, quam molestiae veritatis corporis consectetur provident maxime rem temporibus saepe similique facere?</div>
+    <div class="box2">Lorem ipsum dolor sit  </div>
+</body>
+</html>
