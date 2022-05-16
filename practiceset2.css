@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Chapter 2 practice set CSS</title>
+    <style>
+        ul {
+            background-color: black;
+            color: white;
+
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .main {
+
+            height: 50px;
+            background-color: red;
+        }
+
+        .bg {
+            width: 344px;
+            height: 3344px;
+            background-image: url('d.png');
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-color: aqua;
+
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact </li>
+        </ul>
+    </nav>
+    <div class="main">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil asperiores sapiente dicta vel libero accusantium
+        fugit nulla sint similique ullam numquam iusto odit saepe repudiandae distinctio consectetur, eos quas sequi,
+        voluptatum repellendus quos. Commodi.
+    </div>
+    <div class="bg">
+
+    </div>
+</body>
+
+</html>
