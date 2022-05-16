@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> chapter 6 practice set</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        ul{
+            padding: 34px;
+        }
+        li{
+            list-style: none;
+            display: inline;
+            padding: 0 43px;
+        }
+        header{
+            background-color: black;
+            color: white;
+        }
+        .left{
+            float: left;
+            height: 80vh;
+            width: 40vw;
+            background-color:gold;
+        
+
+        }
+        .right{
+            float: right;
+            height: 80vh;
+            width: 40vw;
+            background-color:blue;
+
+        }
+        
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <div class="conainer">
+        <div class="left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim corporis odio et vitae itaque, suscipit ab, sit nostrum dolores quibusdam minus aut doloremque iste. Natus cupiditate maiores ullam magnam quaerat ab voluptatem fugit temporibus!</div>
+        <div class="right">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, vero. Eius saepe labore modi. Voluptates aspernatur molestiae excepturi maiores nemo, qui distinctio incidunt porro ratione quod optio delectus id illo ea magnam eos voluptate eligendi nulla ipsum at facilis. Accusantium soluta quidem a distinctio corporis provident, perferendis consequatur quia nostrum, hic adipisci! Porro quod non provident.</div>
+    </div>
+</body>
+</html>
